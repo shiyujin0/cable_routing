@@ -47,6 +47,29 @@ The cable segmentation neural network is trained with collected real images on a
 <img src="/gif/s3.gif" width="500">
 <img src="/gif/s4.gif" width="500">
 
+#### Experiments (Scenario 1) with cables of different colors, thickness, and stiffness
+<img src="/gif/s1.gif" width="500">
+<img src="/gif/orange_compressed.gif" width="500">
+<img src="/gif/blue.gif" width="500">
+<img src="/gif/green.gif" width="500">
+<img src="/gif/thin.gif" width="500">
+<img src="/gif/usb.gif" width="500">
+
+#### Failure Cases
+Overstretching
+
+<img src="/gif/overstretch.gif" width="500">
+   
+Slack
+
+<img src="/gif/slack.gif" width="500">
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/shiyujin0/cable_routing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
