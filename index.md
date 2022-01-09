@@ -9,7 +9,7 @@ Cable routing is a challenging task for robotic automation. To accomplish the ta
 
 ### Proposed Framework
 <p align="center">
-  <img src="/images/framework.png" width="700">
+  <img src="./images/framework.png" width="700">
 </p>
 The proposed cable routing framework consists of three modules: 1) cable state estimation, 2) planning with spatial representation, and 3) learning manipulation primitives.
 
