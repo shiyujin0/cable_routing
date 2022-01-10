@@ -18,7 +18,7 @@ The proposed cable routing framework consists of three modules: 1) cable state e
   <img src="/images/spatial_representation.png" width="700">
 </p>
 
-An example spatial representation. Red dots 1,2,3,6 are single fixtures. Red dots 4 and 5 form a channel fixture. The cable from head to tail is traced following the orange arrow. The green arrows are the projection of fixtures onto the cable. The spatial state for each fixture is determined by the sign of the cross product between the green and orange arrows. In this particular example, the spatial representation is (+,-,-,-,+,+). Intuitively, the spatial representation means that the six fixtures are on the (right, left, left, left, right, right) side of the cable.
+An example spatial representation. Red dots 1,2,3,6 are single fixtures. Red dots 4 and 5 form a channel fixture. The cable from the fixed end to the loose end is traced following the orange arrows. The green arrows indicate the projection of fixtures onto the cable. The spatial state for each fixture is determined by the sign of the cross product between the green and orange arrows. In this particular example, the spatial representation is (+,-,-,-,+,+). Intuitively, the spatial representation means that the six fixtures are on the (right, left, left, left, right, right) side of the cable.
 
 <p align="center">
   <img src="/images/planning_1.png" width="700">
