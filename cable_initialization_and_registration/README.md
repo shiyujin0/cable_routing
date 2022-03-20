@@ -1,6 +1,6 @@
 # Robotic Cable Routing with Spatial Representation
 
-If you use the code here please cite this paper:
+If you use the code here please cite this paper [link](https://github.com/shiyujin0/cable_routing/blob/gh-pages/cable_initialization_and_registration/Robotic_Cable_Routing_with_Spatial_Representation.pdf):
 
     @article{jin2022robotic,
       title={Robotic Cable Routing with Spatial Representation},
