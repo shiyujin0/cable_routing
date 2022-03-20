@@ -1,0 +1,5 @@
+numpy
+matplotlib
+networkx==1.9
+pycpd
+scipy
