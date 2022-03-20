@@ -10,7 +10,7 @@ If you use the code here please cite this paper:
       publisher={IEEE}
     }
 
-## Usage (this code only contain cable initializatoin and registration)
+## Usage (This code only contains cable initialization and registration)
 
     pip install -r requirements.txt 
     python main.py
