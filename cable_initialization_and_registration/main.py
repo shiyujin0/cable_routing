@@ -1,7 +1,7 @@
 '''
 Shiyu Jin(jsy@berkeley.edu) 03/20/2022
 Cable initialization and registration example.
-Inilization using reeb graph.
+Initialization using reeb graph.
 Registration using Coherent Point Drift.
 '''
 import numpy as np
