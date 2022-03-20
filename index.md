@@ -1,4 +1,4 @@
-## Robotic Cable Routing with Spatial Representation
+## Robotic Cable Routing with Spatial Representation ([code](https://github.com/shiyujin0/cable_routing/tree/gh-pages/cable_initialization_and_registration))
 Shiyu Jin, Wenzhao Lian, Changhao Wang, Masayoshi Tomizuka, and Stefan Schaal
 
 Intrinsic Innovation LLC, UC Berkeley
