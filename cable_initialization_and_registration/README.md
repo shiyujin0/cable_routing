@@ -8,9 +8,9 @@ If you use the code here please cite this paper:
       journal={IEEE Robotics and Automation Letters},
       year={2022},
       publisher={IEEE}
-}
+    }
 
 ## Usage
 
-  pip install -r requirements.txt \
-  python main.py
+    pip install -r requirements.txt \
+    python main.py
