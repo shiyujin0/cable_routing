@@ -12,5 +12,6 @@ If you use the code here please cite this paper [link](https://github.com/shiyuj
 
 ## Usage (This code only contains cable initialization and registration)
 
+    conda create -n cable_initialization python=3.6
     pip install -r requirements.txt 
     python main.py
